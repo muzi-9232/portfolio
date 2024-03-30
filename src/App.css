@@ -1,0 +1,7 @@
+.main_div{
+    background-color: #0061f2 !important;
+    background-image: linear-gradient( 
+135deg
+ , #fd9043 0%, rgba(105, 0, 199, 0.8) 100%) !important;
+    height: 100vh;
+}
