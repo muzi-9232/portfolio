@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/muzi-9232/portfolio/static/css/main.d43906dd.css",
-    "main.js": "/muzi-9232/portfolio/static/js/main.287727fd.js",
-    "static/media/patsyspizzeria.jpg": "/muzi-9232/portfolio/static/media/patsyspizzeria.b4ff2d52153a68d5384c.jpg",
-    "static/media/parkthegrandholidays.jpg": "/muzi-9232/portfolio/static/media/parkthegrandholidays.e3a316dd61cf5f7ba138.jpg",
-    "static/media/4squaredubai.jpg": "/muzi-9232/portfolio/static/media/4squaredubai.4109344d0082ede93456.jpg",
-    "static/media/kalkineSubscription.jpg": "/muzi-9232/portfolio/static/media/kalkineSubscription.569be5bd0809a57d0012.jpg",
-    "static/media/kalkinemedia.jpg": "/muzi-9232/portfolio/static/media/kalkinemedia.8b99288465ff5484b056.jpg",
-    "static/media/koenigsolution.jpg": "/muzi-9232/portfolio/static/media/koenigsolution.cb595d1743e8de7e7c45.jpg",
-    "static/media/rentmantra.jpg": "/muzi-9232/portfolio/static/media/rentmantra.f7931fabba1e20dfd7cf.jpg",
-    "index.html": "/muzi-9232/portfolio/index.html",
-    "static/media/toggle_icon.svg": "/muzi-9232/portfolio/static/media/toggle_icon.2c1af1537eb27de865c3.svg",
-    "main.d43906dd.css.map": "/muzi-9232/portfolio/static/css/main.d43906dd.css.map",
-    "main.287727fd.js.map": "/muzi-9232/portfolio/static/js/main.287727fd.js.map"
+    "main.css": "/portfolio/static/css/main.e92ac35b.css",
+    "main.js": "/portfolio/static/js/main.48729f28.js",
+    "static/media/patsyspizzeria.jpg": "/portfolio/static/media/patsyspizzeria.b4ff2d52153a68d5384c.jpg",
+    "static/media/parkthegrandholidays.jpg": "/portfolio/static/media/parkthegrandholidays.e3a316dd61cf5f7ba138.jpg",
+    "static/media/4squaredubai.jpg": "/portfolio/static/media/4squaredubai.4109344d0082ede93456.jpg",
+    "static/media/kalkineSubscription.jpg": "/portfolio/static/media/kalkineSubscription.569be5bd0809a57d0012.jpg",
+    "static/media/kalkinemedia.jpg": "/portfolio/static/media/kalkinemedia.8b99288465ff5484b056.jpg",
+    "static/media/koenigsolution.jpg": "/portfolio/static/media/koenigsolution.cb595d1743e8de7e7c45.jpg",
+    "static/media/rentmantra.jpg": "/portfolio/static/media/rentmantra.f7931fabba1e20dfd7cf.jpg",
+    "index.html": "/portfolio/index.html",
+    "static/media/toggle_icon.svg": "/portfolio/static/media/toggle_icon.2c1af1537eb27de865c3.svg",
+    "main.e92ac35b.css.map": "/portfolio/static/css/main.e92ac35b.css.map",
+    "main.48729f28.js.map": "/portfolio/static/js/main.48729f28.js.map"
   },
   "entrypoints": [
-    "static/css/main.d43906dd.css",
-    "static/js/main.287727fd.js"
+    "static/css/main.e92ac35b.css",
+    "static/js/main.48729f28.js"
   ]
 }
